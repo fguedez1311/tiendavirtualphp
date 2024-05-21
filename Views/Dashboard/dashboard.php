@@ -19,7 +19,7 @@
           </div>
         </div>
       </div>
-    </main>
-    <?php
-      footerAdmin($data);
-    ?>
+</main>
+<?php
+  footerAdmin($data);
+?>
